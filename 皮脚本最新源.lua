@@ -1,6 +1,3 @@
---XI团队开源 狗屎皮脚本加入联邦 得罪XI
-
-
 game:GetService("StarterGui"):SetCore("SendNotification", {
   Title = "皮脚本",
   Text = "欢迎使用皮脚本",
@@ -6745,4 +6742,5 @@ r50_0:Tab("『汽车经销大亨』", "18930406865"):section("整合脚本", tru
   
   loadstring(game:HttpGet([[https://raw.githubusercontent.com/xiaopi77/Integration-script/refs/heads/main/Roblox-Pi-Script-Automobiledealertycoon.lua]]))()
 end)
+
 
